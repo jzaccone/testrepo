@@ -5,3 +5,6 @@
 	path = SubmoduleBranched
 	url = https://github.com/jzaccone/SubmoduleTestRepo.git
 	branch = master
+[submodule "SubmoduleDetached"]
+	path = SubmoduleDetached
+	url = https://github.com/jzaccone/SubmoduleTestRepo.git
