@@ -1,7 +1,6 @@
 [submodule "SubmoduleTestRepo"]
 	path = SubmoduleTestRepo
 	url = https://github.com/jzaccone/SubmoduleTestRepo.git
-	branch = master
 [submodule "SubmoduleBranched"]
 	path = SubmoduleBranched
 	url = https://github.com/jzaccone/SubmoduleTestRepo.git
